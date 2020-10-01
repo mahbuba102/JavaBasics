@@ -1,0 +1,6 @@
+// The command that can be used to print is 
+
+System.out.println()
+
+// The String can be printed and that can be written in the brackets
+// This is definately print the \n or say next line hence to avoid this one can use prit instead of println
